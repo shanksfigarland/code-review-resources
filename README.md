@@ -20,6 +20,7 @@ https://github.com/micha3lb3n/SourceWolf
 https://libraries.io/pypi/detect-secrets
 
 Tips
+```
 1.Important functions first
 2.Follow user input
 3.Hardcoded secrets and credentials
@@ -30,3 +31,4 @@ Tips
 8.Missing security checks on user input and regex strength
 9.Missing cookie flags
 10.Unexpected behavior, conditionals, unnecessarily complex and verbose functions
+```
